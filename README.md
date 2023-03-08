@@ -1,2 +1,2 @@
-# PNA_2023
-Workshop content for PNA 2023
+# PNA_2021
+Pathway Network Analysis 2021
