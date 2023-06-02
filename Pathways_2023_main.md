@@ -12,7 +12,7 @@ length: 3 days
 ---
 # Welcome 
 
-## This workshop page is under construction. Please note that some links may be out of date.
+## This workshop page is under construction. Please note that some links may be out of date or missing.
 
 Welcome to Pathways and Network Analysis 2023.  
 
