@@ -101,10 +101,13 @@ Coming soon!
 
   [Module 6 Lecture Slides]()  
   <!-- Module 6 Lecture Recording   -->
+  [Module 6: Review of the Tools](https://baderlab.github.io/CBW_Pathways_2023/module-6-review-of-the-tools.html)
   [Module 6 Lab: scRNA PMBC](https://baderlab.github.io/CBW_Pathways_2023/scRNA-lab1.html)  
   [Module 6 Lab: scRNA pathway analysis using g:Profiler](https://baderlab.github.io/CBW_Pathways_2023/module-6-lab-2--scrna-pathway-analysis-using-gprofiler-scrna-gprofiler-lab.html)  
   [Module 6 Lab: scNetViz](https://baderlab.github.io/CBW_Pathways_2023/scNetViz-lab.html)  
   [Module 6 Integrated Assignment](https://baderlab.github.io/CBW_Pathways_2023/integrated_assignment.html)  
   [Module 6 Integrated Assignment Bonus: Automation](https://baderlab.github.io/CBW_Pathways_2023/ass_automation.html)  
 
-  
+  ## Optional Module 7: Regulatory Network Analysis
+
+  [Module 7](https://baderlab.github.io/CBW_Pathways_2023/intro-regulatory-networks.html)
