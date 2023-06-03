@@ -108,6 +108,6 @@ Coming soon!
   [Module 6 Integrated Assignment](https://baderlab.github.io/CBW_Pathways_2023/integrated_assignment.html)  
   [Module 6 Integrated Assignment Bonus: Automation](https://baderlab.github.io/CBW_Pathways_2023/ass_automation.html)  
 
-  ## Optional Module 7: Regulatory Network Analysis
+## Optional Module 7: Regulatory Network Analysis
 
   [Module 7](https://baderlab.github.io/CBW_Pathways_2023/intro-regulatory-networks.html)
