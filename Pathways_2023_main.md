@@ -22,9 +22,7 @@ Meet your faculty [here](https://baderlab.github.io/CBW_Pathways_2023/welcome.ht
 
 ***
 
-# Pre-Workshop Materials and Laptop Setup Instructions <a id="preworkshop"></a>
-
-## Pre-workshop Tutorials
+# Pre-workshop Tutorials
 
 Required pre-workshop readings and setup can be found [here](https://forms.gle/8CTkATXobYJuFFCP7) 
 
