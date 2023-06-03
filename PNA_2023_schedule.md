@@ -10,7 +10,7 @@ home: https://bioinformaticsdotca.github.io/PNA_2023
 
 # Pathway and Network Analysis
 
-| | Monday, June 5 | | Tusday, June 6 | | Wednesday, June 7 |
+| | Monday, June 5 | | Tuesday, June 6 | | Wednesday, June 7 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Time (Eastern) | Module | Time (Eastern) | Module | Time (Eastern) | Module |
 | 8:30 | <font color="green">Arrivals & Check-in</font> | 8:30 | <font color="green">Arrivals</font>|8:30  |<font color="green">Arrivals</font> |  
