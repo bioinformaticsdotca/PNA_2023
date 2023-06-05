@@ -52,9 +52,9 @@ Coming soon!
 
   *<font color="#827e9c">Veronique Voisin & Ruth Isserlin</font>*
   
-  [Module 2 Lecture Slides]()  
+  [Module 2 Lecture Slides](https://drive.google.com/file/d/1Qw6AIGbjnjp0OcUCuoxpZcLPO_mCv4xU/view?usp=sharing)  
   <!-- Module 2 Lecture Recording   -->
-  [Module 2 Lab Slides]()  
+  [Module 2 Lab Slides](https://drive.google.com/file/d/1j4uCHaX3YTfNjoZV7pYPe0fXdXmYlTMc/view?usp=share_link)  
   [Module 2 Lab: g:Profiler](https://baderlab.github.io/CBW_Pathways_2023/gprofiler-lab.html#gprofiler-lab)  
   [Module 2 Lab: GSEA](https://baderlab.github.io/CBW_Pathways_2023/gsea-lab.html#gsea-lab)  
   
@@ -62,9 +62,10 @@ Coming soon!
 
  *<font color="#827e9c">Ruth Isserlin</font>*  
   
-  [Module 3 Lecture Slides, Part 1]()  
-  [Module 3 Lecture Slides, Part 2]()  
+  [Module 3 Lecture Slides, Part 1](https://drive.google.com/file/d/1hQ7poOglQibRT_hWc_-zkFOepXEEMrsi/view?usp=sharing)  
+  [Module 3 Lecture Slides, Part 2](https://drive.google.com/file/d/1pgrwckjLj4vKPDGZzlEwbMM1LO4vbD0D/view?usp=sharing)  
   <!-- Module 3 Lecture Recording   -->
+  [Module 3 Lab Slides](https://drive.google.com/file/d/1QjZ-OGxYSJpKrxknDTgwd6lM7_0iXeA3/view?usp=sharing)
   [Module 3 Lab: g:Profiler](https://baderlab.github.io/CBW_Pathways_2023/gprofiler_mod3.html)  
   [Module 3 Lab: GSEA](https://baderlab.github.io/CBW_Pathways_2023/gsea_mod3.html)  
   [Module 3 Lab: (Bonus) Automation](https://baderlab.github.io/CBW_Pathways_2023/automation.html)  
@@ -77,7 +78,7 @@ Coming soon!
   
   [Module 4 Lecture Slides]()  
   <!-- Module 4 Lecture Recording   -->
-  [Module 4 Lab Slides]()  
+  [Module 4 Lab Slides](https://drive.google.com/file/d/1gBEjAvNdFFgXg9i07sdD_Pd5ZIko8WPg/view?usp=sharing)  
   [Module 4 Lab](https://baderlab.github.io/CBW_Pathways_2023/ReactomeFI.html)  
   
  
@@ -85,7 +86,7 @@ Coming soon!
 
   *<font color="#827e9c">Veronique Voisin</font>*
   
-  [Module 5 Lecture Slides]()  
+  [Module 5 Lecture Slides](https://drive.google.com/file/d/18aWQ1PzHJ6U5wj3A8es56_M2yiktLyXd/view?usp=sharing)  
   <!-- Module 5 Lecture Recording   -->
   [Module 5 Lab: Cytoscape](https://baderlab.github.io/CBW_Pathways_2023/genemania_cytoscape.html)  
   [Module 5 Lab: Web](https://baderlab.github.io/CBW_Pathways_2023/genemania_web.html)  
@@ -97,7 +98,7 @@ Coming soon!
 
 *<font color="#827e9c">Veronique Voisin</font>*
 
-  [Module 6 Lecture Slides]()  
+  [Module 6 Lecture Slides](https://drive.google.com/file/d/1QBAPI_AXzsrXcJKCo9-4AgoY6D5gOi0D/view?usp=sharing)  
   <!-- Module 6 Lecture Recording   -->
   [Module 6: Review of the Tools](https://baderlab.github.io/CBW_Pathways_2023/module-6-review-of-the-tools.html)
   [Module 6 Lab: scRNA PMBC](https://baderlab.github.io/CBW_Pathways_2023/scRNA-lab1.html)  
