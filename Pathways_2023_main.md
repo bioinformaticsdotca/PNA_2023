@@ -76,7 +76,7 @@ Coming soon!
 
   *<font color="#827e9c">Lincoln Stein & Veronique Voisin</font>*
   
-  [Module 4 Lecture Slides]()  
+  [Module 4 Lecture Slides](https://drive.google.com/file/d/12pwXR3RdzS40QTUT6Q1p4bY3KVC2XmHW/view?usp=sharing)  
   <!-- Module 4 Lecture Recording   -->
   [Module 4 Lab Slides](https://drive.google.com/file/d/1gBEjAvNdFFgXg9i07sdD_Pd5ZIko8WPg/view?usp=sharing)  
   [Module 4 Lab](https://baderlab.github.io/CBW_Pathways_2023/ReactomeFI.html)  
