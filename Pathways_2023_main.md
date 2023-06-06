@@ -12,8 +12,6 @@ length: 3 days
 ---
 # Welcome 
 
-## This workshop page is under construction. Please note that some links may be out of date or missing.
-
 Welcome to Pathways and Network Analysis 2023.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/PNA_2023_schedule)  
