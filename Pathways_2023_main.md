@@ -29,7 +29,7 @@ Required pre-workshop readings and setup can be found [here](https://forms.gle/8
 
 # Class photo
 
-![PNA23 Class Photo](https://drive.google.com/file/d/1yUrnj45hv_VXtwrkpMmTJpCrMTmmZ1P1/view?usp=drive_link)
+![PNA23 Class Photo](https://drive.google.com/uc?export=view&id=1yUrnj45hv_VXtwrkpMmTJpCrMTmmZ1P1)
 
 ***  
 
