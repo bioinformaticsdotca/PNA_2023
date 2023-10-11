@@ -29,7 +29,7 @@ Required pre-workshop readings and setup can be found [here](https://forms.gle/8
 
 # Class photo
 
-<img src="https://drive.google.com/uc?export=view&id=16sc4jnKD1_b3mF2dSILfcwcaCTVjpdgN" width="100%" />   
+<!-- <img src="https://drive.google.com/uc?export=view&id=16sc4jnKD1_b3mF2dSILfcwcaCTVjpdgN" width="100%" />    -->
 
 
 ***  
